@@ -1,3 +1,10 @@
+2018-07-04, Version 3.4.4.1
+=========================
+
+ * Where Field = null (Diego Amaral)
+ * Where Field = {$type: cond} (Diego Amaral)
+ * Look [reference](http://docs.mongodb.org/manual/reference/operator/query/type/)
+
 2018-06-05, Version 3.4.4
 =========================
 
